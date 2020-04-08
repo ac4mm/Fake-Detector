@@ -1,0 +1,31 @@
+
+----training
+Not-Fake
+Nets get Carter from Raptors;INDIANAPOLIS -- All-Star Vince Carter was traded by the Toronto Raptors to the New Jersey Nets for Alonzo Mourning, Eric Williams, Aaron Williams, and a pair of first-round draft picks yesterday.
+
+Fake
+Report Copyright Violation Trump: No Salary for Me as President Billionaire U.S. presidential candidate Donald Trump said on Thursday he does not want the $400,000 annual salary that comes with the White House job and would turn it down if elected.Trump, the front-runner for the Republican nomination in the 2016 race despite having no political experience, was asked at a town hall-style meeting in Rochester, New Hampshire, if, as president, he would roll back generous pension and healthcare benefits given to members of Congress. More: When thy judgments are in the earth, the inhabitants of the world will learn righteousness.Isaiah 26:9
+
+
+----test
+
+Not-fake
+EBay gets into rentals;EBay plans to buy the apartment and home rental service Rent.com for \$415 million, adding to its already exhaustive breadth of offerings.
+
+Fake
+“I am a person of faith. I am a Christian. I am a Methodist. I have been raised Methodist,” she said. 
+She didn’t fail to bring it to a political point, however. 
+“My study of the Bible, my many conversations with people of faith, has led me to believe the most important commandment is to love the Lord with all your might and to love your neighbor as yourself, and that is what I think we are commanded by Christ to do, and there is so much more in the Bible about taking care of the poor, visiting the prisoners, taking in the stranger, creating opportunities for others to be lifted up, to find faith themselves that I think there are many different ways of exercising your faith,” she said. 
+It is not for me or anyone else to question someone’s faith, but that statement and her permitting “under God” to be omitted from a Pledge of Allegiance reference at her rally certainly seem contradictory. 
+H/T QPolitical 
+Please share this on Facebook and Twitter and let us know what you think about this omission! What do you think of the omission of "under God"? Scroll down to comment below! Advertisement Popular Right Now
+
+
+Fake (The Onion)
+WASHINGTON—Mulling solutions to stop the disease’s rapid spread across the country, President Donald Trump reportedly suggested Tuesday ceding New York to the coronavirus as a possible appeasement strategy. “We are committed to looking at all options as we work through the invasion of this virus on our shores, including ceding at least the city of New York and potentially the entire state in order to meet the virus halfway and spare the rest of America from further suffering,” said Trump at a press conference, adding that his understanding of what the coronavirus wanted led him to believe that New York’s 54,000 square miles and nearly 20 million residents would be sufficient to placate the respiratory disease. “We’re not in a good situation right now, but I think we can find a solution that will make me happy, make the American people happy, and make the virus happy. This is a win-win and everyone gets what they want. This is a big, big change, but in the end we’re going to like the final result. I think this is a sacrifice everyone is willing to make. The virus should know that we respect where it’s coming from and how dangerous it is, which is why we’re offering a very big state. This is a very smart virus and it will know a good deal. I’d take this deal if I were the virus. Some of my advisors suggested Rhode Island or New Hampshire, but I know that won’t be enough. We’re hoping the coronavirus will be reasonable. We’re hoping that if we give the coronavirus New York that will be enough and it will go back to China or Italy or wherever it came from. Maybe we’ll throw in New Jersey as well.” New York governor Andrew Cuomo said he was willing to work with Trump but that ceding the entire state to the coronavirus was too much, and asked if he could reduce the offering to just the state’s prisons and migrant detention centers.
+
+
+
+Fake (theOnion)
+WASHINGTON—Mulling solutions to stop the disease’s rapid spread across the country, President Donald Trump reportedly suggested Tuesday ceding New York to the coronavirus as a possible appeasement strategy. “We are committed to looking at all options as we work through the invasion of this virus on our shores, including ceding at least the city of New York and potentially the entire state in order to meet the virus halfway and spare the rest of America from further suffering,” said Trump at a press conference, adding that his understanding of what the coronavirus wanted led him to believe that New York’s 54,000 square miles and nearly 20 million residents would be sufficient to placate the respiratory disease. “We’re not in a good situation right now, but I think we can find a solution that will make me happy, make the American people happy, and make the virus happy. This is a win-win and everyone gets what they want. This is a big, big change, but in the end we’re going to like the final result. I think this is a sacrifice everyone is willing to make. The virus should know that we respect where it’s coming from and how dangerous it is, which is why we’re offering a very big state. This is a very smart virus and it will know a good deal. I’d take this deal if I were the virus. Some of my advisors suggested Rhode Island or New Hampshire, but I know that won’t be enough. We’re hoping the coronavirus will be reasonable. We’re hoping that if we give the coronavirus New York that will be enough and it will go back to China or Italy or wherever it came from. Maybe we’ll throw in New Jersey as well.” New York governor Andrew Cuomo said he was willing to work with Trump but that ceding the entire state to the coronavirus was too much, and asked if he could reduce the offering to just the state’s prisons and migrant detention centers.
+

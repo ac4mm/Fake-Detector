@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fake Detector</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/styles.css')}}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon2.ico') }}">
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    </head>
+
+  <body>
+    <div align="center">
+    <header>
+      <div  id="top-nav-bar">
+        <h2 class="title">Fake Detector</h2>
+        </div>
+      </header>
+
+
+      <div class="results">
+        <p><b>Results</b></p>
+
+        <!--<p>sentence: {{ sentence }}</p>-->
+
+        <progress max="100" value={{positive*100}}></progress>
+        <p>not-fake: {{ (positive*100)|round(2,'floor') }}%</p>
+
+        <br>
+
+        <progress max="100" value={{negative*100}}></progress>
+          <p>fake: {{ (negative*100)|round(2,'floor') }}%</p>
+
+      </div>
+
+      <form action="{{url_for('homepage')}}" method="get">
+        <input type="submit" class="button button1" value="return back">
+       </form>
+
+    </div>
+  </body>
+
+</html>
