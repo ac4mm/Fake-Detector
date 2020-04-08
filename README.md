@@ -19,7 +19,7 @@ python app.py
 ```
 After that, you could see different *FutureWarning: Passing (type,1) ...* caused by a version of *numpy*. You can simply ignore that. Finally you will see **Fake-Detector** to classify a text of article with a score for a *fake*  or *not-fake*.
 Below you can see a demo image of homepage and an examples score about an The Onion article.
-
+<br/>
 
 ![](demo/demo.png)
 
