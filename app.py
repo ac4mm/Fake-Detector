@@ -9,7 +9,7 @@ import logging
 import sys
 
 app = Flask(__name__)
-app.secret_key= 'b\xdb\x87:\xdf/\x89D\xd6\x04|\x97j\x04\xfbh\xd3\x96\x8aj\x90\xe50Q'
+app.secret_key= 'your_secret_key'
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
