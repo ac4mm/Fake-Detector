@@ -18,9 +18,10 @@ After that, you must get *secret_key* for Flask session and change it at **line 
 python app.py
 ```
 After that, you could see different *FutureWarning: Passing (type,1) ...* caused by a version of *numpy*. You can simply ignore that. Finally you will see **Fake-Detector** to classify a text of article with a score for a *fake*  or *not-fake*.
-Below you can see a demo image of homepage.
+Below you can see a demo image of homepage and an examples score about an The Onion article.
 
 
+![](demo/demo.png)
 
 ## Built With
 * [`BERT-Base, Multilingual Cased (New, recommended)`](https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip), which include different language support (104 languages) with 12-layer, 768-hidden, 12-heads, 110M parameters.
