@@ -32,5 +32,5 @@ Below you can see a demo image of homepage and an examples score about a The Oni
 &nbsp;
 
 ## Acknowledgments
-* @jalammar, for his fantastic visual article about Transformer (useful for grasp BERT) [Jay Alammar](http://jalammar.github.io/) .
-* @chrisjmccormick for his amazing [BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6).
+* [@jalammar](https://github.com/jalammar), for his fantastic visual article about Transformer (useful for grasp BERT) in [Jay Alammar](http://jalammar.github.io/) .
+* [@chrisjmccormick](https://github.com/chrisjmccormick/) for his amazing [BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6).
