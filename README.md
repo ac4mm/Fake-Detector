@@ -18,7 +18,7 @@ After that, you must get *secret_key* for Flask session and change it at **line 
 python app.py
 ```
 After that, you could see different "*FutureWarning: Passing (type,1) ...*" caused by a version of *numpy*. You can simply ignore it. Finally you will see **Fake-Detector** to classify a text of article with a score for a *fake*  or *not-fake*.
-Below you can see a demo image of homepage and an examples score about an The Onion article.
+Below you can see a demo image of homepage and an examples score about a The Onion's article.
 <br/>
 
 ![](demo/demo.png)
