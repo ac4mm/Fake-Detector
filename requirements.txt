@@ -3,7 +3,7 @@ tqdm==4.36.1
 Flask==1.1.1
 gunicorn==19.9.0
 Jinja2==2.11.3
-torch==1.4.0
+torch==1.13.1
 transformers==4.30.0
 pytorch_pretrained_bert==0.6.2
 pandas==0.25.1
